@@ -1,4 +1,51 @@
-amazon    yandex
-https://www.amazon.com/Apple-iPad-10-2-Inch-Wi-Fi-128GB/dp/B07XL7G4HH?ref_=ast_sto_dp&th=1    https://market.yandex.ru/product--planshet-apple-ipad-2019-32gb-wi-fi/560271031/offers?glfilter=14871214%3A14897983&local-offers-first=1&how=aprice
-https://www.amazon.com/Apple-iPad-10-2-Inch-Wi-Fi-128GB/dp/B07XL7G4H6?ref_=ast_sto_dp&th=1    https://market.yandex.ru/product--planshet-apple-ipad-2019-32gb-wi-fi/560271031/offers?glfilter=14871214%3A15324855&local-offers-first=1&how=aprice
-https://www.amazon.com/Apple-iPad-10-2-Inch-Wi-Fi-128GB/dp/B07XQYPM2N?ref_=ast_sto_dp&th=1    https://market.yandex.ru/product--planshet-apple-ipad-2019-32gb-wi-fi/560271031/offers?glfilter=14871214%3A14896128&local-offers-first=1&how=aprice
+[
+    {
+        "name": "iPad 10.2 Silver 32GB",
+        "type": "iPad 10.2",
+        "amazon": "https://www.amazon.com/Apple-iPad-10-2-Inch-Wi-Fi-128GB/dp/B07XL7G4HH?ref_=ast_sto_dp&th=1",
+        "yandex": "https://market.yandex.ru/product--planshet-apple-ipad-2019-32gb-wi-fi/560271031/offers?glfilter=14871214%3A14897983&local-offers-first=1&how=aprice",
+        "bestbuy": "https://www.bestbuy.com/site/apple-ipad-latest-model-with-wi-fi-32gb-silver/5985610.p?skuId=5985610&intl=nosplash"
+    },
+    {
+        "name": "iPad 10.2 Space Gray 32GB",
+        "type": "iPad 10.2",
+        "amazon": "https://www.amazon.com/Apple-iPad-10-2-Inch-Wi-Fi-128GB/dp/B07XL7G4H6?ref_=ast_sto_dp&th=1",
+        "yandex": "https://market.yandex.ru/product--planshet-apple-ipad-2019-32gb-wi-fi/560271031/offers?glfilter=14871214%3A15324855&local-offers-first=1&how=aprice",
+        "bestbuy": "https://www.bestbuy.com/site/apple-ipad-latest-model-with-wi-fi-32gb-space-gray/5985609.p?skuId=5985609&intl=nosplash"
+    },
+    {
+        "name": "iPad 10.2 Gold 32GB",
+        "type": "iPad 10.2",
+        "amazon": "https://www.amazon.com/Apple-iPad-10-2-Inch-Wi-Fi-128GB/dp/B07XQYPM2N?ref_=ast_sto_dp&th=1",
+        "yandex": "https://market.yandex.ru/product--planshet-apple-ipad-2019-32gb-wi-fi/560271031/offers?glfilter=14871214%3A14896128&local-offers-first=1&how=aprice",
+        "bestbuy": "https://www.bestbuy.com/site/apple-ipad-latest-model-with-wi-fi-32gb-gold/5985612.p?skuId=5985612&intl=nosplash"
+    },
+    {
+        "name": "iPad Pro 11 Silver 32GB",
+        "type": "iPad Pro 11",
+        "amazon": "",
+        "yandex": "",
+        "bestbuy": ""
+    },
+    {
+        "name": "iPad Pro 11 Space Gray 32GB",
+        "type": "iPad Pro 11",
+        "amazon": "",
+        "yandex": "",
+        "bestbuy": ""
+    },
+    {
+        "name": "iPad Pro 12.9 Silver 32GB",
+        "type": "iPad Pro 12.9",
+        "amazon": "",
+        "yandex": "",
+        "bestbuy": ""
+    },
+    {
+        "name": "iPad Pro 12.9 Space Gray 32GB",
+        "type": "iPad Pro 12.9",
+        "amazon": "",
+        "yandex": "",
+        "bestbuy": ""
+    }
+]
