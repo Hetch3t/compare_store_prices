@@ -74,7 +74,8 @@
         "type": "MacBook Pro 16",
         "amazon": "https://www.amazon.com/dp/B081FWLDZ2/ref=fs_a_mb_3?th=1",
         "yandex": "https://market.yandex.ru/product--noutbuk-apple-macbook-pro-16-with-retina-display-and-touch-bar-late-2019/628885067/offers?glfilter=14871214%3A14897638&local-offers-first=1&how=aprice",
-        "bestbuy": "https://www.bestbuy.com/site/apple-macbook-pro-16-display-with-touch-bar-intel-core-i7-16gb-memory-amd-radeon-pro-5300m-512gb-ssd-latest-model-silver/6366575.p?skuId=6366575&intl=nosplash"
+        "bestbuy": "https://www.bestbuy.com/site/apple-macbook-pro-16-display-with-touch-bar-intel-core-i7-16gb-memory-amd-radeon-pro-5300m-512gb-ssd-latest-model-silver/6366575.p?skuId=6366575&intl=nosplash",
+        "verkkokauppa": "https://www.verkkokauppa.com/fi/product/60773/nbqhq/Apple-MacBook-Pro-16-512-Gt-SSD-kannettava-hopea-MVVL2"
     },
     {
         "name": "MacBook Pro 16 i7 512GB Space Gray",
