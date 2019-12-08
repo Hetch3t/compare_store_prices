@@ -21,31 +21,81 @@
         "bestbuy": "https://www.bestbuy.com/site/apple-ipad-latest-model-with-wi-fi-32gb-gold/5985612.p?skuId=5985612&intl=nosplash"
     },
     {
-        "name": "iPad Pro 11 Silver 32GB",
+        "name": "iPad 10.2 Silver 128GB",
+        "type": "iPad 10.2",
+        "amazon": "https://www.amazon.com/Apple-iPad-10-2-Inch-Wi-Fi-128GB/dp/B07XR5B32Q?ref_=ast_sto_dp&th=1",
+        "yandex": "https://market.yandex.ru/product--planshet-apple-ipad-2019-128gb-wi-fi/560262045/offers?glfilter=14871214%3A14897983&local-offers-first=1&how=aprice",
+        "bestbuy": "https://www.bestbuy.com/site/apple-ipad-latest-model-with-wi-fi-128gb-silver/5985615.p?skuId=5985615&intl=nosplash"
+    },
+    {
+        "name": "iPad 10.2 Space Gray 128GB",
+        "type": "iPad 10.2",
+        "amazon": "https://www.amazon.com/Apple-iPad-10-2-Inch-Wi-Fi-128GB/dp/B07XR5B32Q?ref_=ast_sto_dp&th=1",
+        "yandex": "https://market.yandex.ru/product--planshet-apple-ipad-2019-128gb-wi-fi/560262045/offers?glfilter=14871214%3A15324855&local-offers-first=1&how=aprice",
+        "bestbuy": "https://www.bestbuy.com/site/apple-ipad-latest-model-with-wi-fi-128gb-space-gray/5985613.p?skuId=5985613&intl=nosplash"
+    },
+    {
+        "name": "iPad 10.2 Gold 128GB",
+        "type": "iPad 10.2",
+        "amazon": "https://www.amazon.com/Apple-iPad-10-2-Inch-Wi-Fi-128GB/dp/B07XR7CPXG?ref_=ast_sto_dp&th=1",
+        "yandex": "https://market.yandex.ru/product--planshet-apple-ipad-2019-128gb-wi-fi/560262045/offers?glfilter=14871214%3A14896128&local-offers-first=1&how=aprice",
+        "bestbuy": "https://www.bestbuy.com/site/apple-ipad-latest-model-with-wi-fi-128gb-gold/5985616.p?skuId=5985616&intl=nosplash"
+    },
+    {
+        "name": "iPad Pro 11 Silver 64GB WiFi",
         "type": "iPad Pro 11",
-        "amazon": "",
-        "yandex": "",
-        "bestbuy": ""
+        "amazon": "https://www.amazon.com/dp/B07K375GV4/ref=fs_a_i_1/141-0844732-7326642?th=1",
+        "yandex": "https://market.yandex.ru/product--planshet-apple-ipad-pro-11-64gb-wi-fi/217189002/offers?glfilter=14871214%3A14897983&local-offers-first=1&how=aprice",
+        "bestbuy": "https://www.bestbuy.com/site/apple-11-inch-ipad-pro-latest-model-with-wi-fi-64gb-silver/5985629.p?skuId=5985629"
     },
     {
-        "name": "iPad Pro 11 Space Gray 32GB",
+        "name": "iPad Pro 11 Space Gray 64GB WiFi",
         "type": "iPad Pro 11",
-        "amazon": "",
-        "yandex": "",
-        "bestbuy": ""
+        "amazon": "https://www.amazon.com/dp/B07K344J3N/ref=fs_a_i_1/141-0844732-7326642?th=1",
+        "yandex": "https://market.yandex.ru/product--planshet-apple-ipad-pro-11-64gb-wi-fi/217189002/offers?track=tabs&glfilter=14871214%3A15696112&local-offers-first=1&how=aprice",
+        "bestbuy": "https://www.bestbuy.com/site/apple-11-inch-ipad-pro-latest-model-with-wi-fi-64gb-space-gray/5985628.p?skuId=5985628"
     },
     {
-        "name": "iPad Pro 12.9 Silver 32GB",
+        "name": "iPad Pro 12.9 Silver 64GB",
         "type": "iPad Pro 12.9",
-        "amazon": "",
-        "yandex": "",
-        "bestbuy": ""
+        "amazon": "https://www.amazon.com/dp/B07K344LQ8/ref=fs_a_i_0?th=1",
+        "yandex": "https://market.yandex.ru/product--planshet-apple-ipad-pro-12-9-2018-64gb-wi-fi/217189001/offers?glfilter=14871214%3A14897983&local-offers-first=1&how=aprice",
+        "bestbuy": "https://www.bestbuy.com/site/apple-12-9-inch-ipad-pro-latest-model-with-wi-fi-64gb-silver/5985638.p?skuId=5985638"
     },
     {
-        "name": "iPad Pro 12.9 Space Gray 32GB",
+        "name": "iPad Pro 12.9 Space Gray 64GB",
         "type": "iPad Pro 12.9",
-        "amazon": "",
-        "yandex": "",
-        "bestbuy": ""
+        "amazon": "https://www.amazon.com/dp/B07K344KNG/ref=fs_a_i_0?th=1",
+        "yandex": "https://market.yandex.ru/product--planshet-apple-ipad-pro-12-9-2018-64gb-wi-fi/217189001/offers?glfilter=14871214%3A15696112&local-offers-first=1&how=aprice",
+        "bestbuy": "https://www.bestbuy.com/site/apple-12-9-inch-ipad-pro-latest-model-with-wi-fi-64gb-space-gray/5985637.p?skuId=5985637&intl=nosplash"
+    },
+    {
+        "name": "MacBook Pro 16 i7 512GB Silver",
+        "type": "MacBook Pro 16",
+        "amazon": "https://www.amazon.com/dp/B081FWLDZ2/ref=fs_a_mb_3?th=1",
+        "yandex": "https://market.yandex.ru/product--noutbuk-apple-macbook-pro-16-with-retina-display-and-touch-bar-late-2019/628885067/offers?glfilter=14871214%3A14897638&local-offers-first=1&how=aprice",
+        "bestbuy": "https://www.bestbuy.com/site/apple-macbook-pro-16-display-with-touch-bar-intel-core-i7-16gb-memory-amd-radeon-pro-5300m-512gb-ssd-latest-model-silver/6366575.p?skuId=6366575&intl=nosplash"
+    },
+    {
+        "name": "MacBook Pro 16 i7 512GB Space Gray",
+        "type": "MacBook Pro 16",
+        "amazon": "https://www.amazon.com/dp/B081FZV45H/ref=fs_a_mb_3?th=1",
+        "yandex": "https://market.yandex.ru/product--noutbuk-apple-macbook-pro-16-with-retina-display-and-touch-bar-late-2019/628885067/offers?glfilter=14871214%3A15277521&local-offers-first=1&how=aprice",
+        "bestbuy": "https://www.bestbuy.com/site/apple-macbook-pro-16-display-with-touch-bar-intel-core-i7-16gb-memory-amd-radeon-pro-5300m-512gb-ssd-latest-model-space-gray/6366564.p?skuId=6366564&intl=nosplash"
+    },
+    {
+        "name": "MacBook Pro 16 i9 1TB Silver",
+        "type": "MacBook Pro 16",
+        "amazon": "https://www.amazon.com/dp/B081FTNGNC/ref=fs_a_mb_3?th=1  ",
+        "yandex": "https://market.yandex.ru/product--noutbuk-apple-macbook-pro-16-with-retina-display-and-touch-bar-late-2019/628885067/offers?glfilter=5085104%3A15823084&glfilter=14871214%3A14897638&local-offers-first=1&how=aprice",
+        "bestbuy": "https://www.bestbuy.com/site/apple-macbook-pro-16-display-with-touch-bar-intel-core-i9-16gb-memory-amd-radeon-pro-5500m-1tb-ssd-latest-model-silver/6366581.p?skuId=6366581&intl=nosplash"
+    },
+    {
+        "name": "MacBook Pro 16 i9 1TB Space Gray",
+        "type": "MacBook Pro 16",
+        "amazon": "https://www.amazon.com/dp/B081FV1Y57/ref=fs_a_mb_3?th=1",
+        "yandex": "https://market.yandex.ru/product--noutbuk-apple-macbook-pro-16-with-retina-display-and-touch-bar-late-2019/628885067/offers?glfilter=5085104%3A15823084&glfilter=14871214%3A15277521&local-offers-first=1&how=aprice",
+        "bestbuy": "https://www.bestbuy.com/site/apple-macbook-pro-16-display-with-touch-bar-intel-core-i9-16gb-memory-amd-radeon-pro-5500m-1tb-ssd-latest-model-space-gray/6366572.p?skuId=6366572&intl=nosplash"
     }
 ]
+

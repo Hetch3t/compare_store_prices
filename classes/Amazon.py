@@ -34,7 +34,7 @@ class AmazonProduct(Product):
         name = None
         try:
             price = soup.find("span", {"id": "priceblock_ourprice"})
-            price = float(price.text[1:])
+            price = float(price.text[1:].replace(',', ''))
             self.price = Price(price, Currency.USD)
         except AttributeError:
             pass

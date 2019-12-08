@@ -35,7 +35,7 @@ class BestbuyProduct(Product):
             price = soup.find(
                 "div", {"class": "priceView-hero-price priceView-customer-price"}
             ).find("span")
-            price = float(price.text[1:])
+            price = float(price.text[1:].replace(",", ""))
             self.price = Price(price, Currency.USD)
         except AttributeError:
             pass

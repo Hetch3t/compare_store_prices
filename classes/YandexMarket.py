@@ -59,6 +59,7 @@ class MarketYandexProduct(Product):
         try:
             price = (
                 soup.find("div", {"class": "snippet-card__info"})
+                .find("div", {"class": "snippet-card__price"})
                 .find("div", {"class": "price"})
                 .text.split("\xa0")[0]
                 .replace(" ", "")
